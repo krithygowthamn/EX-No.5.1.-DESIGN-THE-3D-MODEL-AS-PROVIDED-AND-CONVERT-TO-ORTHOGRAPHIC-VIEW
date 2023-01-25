@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![ex 5 1 GOWTHAM](https://user-images.githubusercontent.com/122247810/214470731-16f121bf-590c-4351-a2d1-d60684379396.jpg)
 
 
 ## RESULT:
